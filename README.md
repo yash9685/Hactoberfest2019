@@ -13,6 +13,12 @@ Hacktoberfest Classroom Project 2019
 [JeffHow](https://github.com/jeffhow/)
 > Simple doesn't always mean easy
 ---
+
+### Ryan
+[Ryan Karanja](https://github.com/Ryan-Karanja)
+> Talk is cheap
+=======
+
 ### Eddy
 [EddyRamon1](https://github.com/EddyRamon1/)
 > Yare Yare Daze
@@ -20,8 +26,9 @@ Hacktoberfest Classroom Project 2019
 
 ### Matthew
 [Believedshelf2](https://github.com/believedshelf2/)
->Uh oh stincky, poopy.
+> Uh oh stincky, poopy.
 =======
+
 ### Jacob
 [Jacob](https://github.com/jake112311/)
 > when life gives you lemons
