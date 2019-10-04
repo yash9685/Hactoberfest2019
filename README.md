@@ -9,7 +9,12 @@ Hacktoberfest Classroom Project 2019
 
 ## Participants
 
-### Jeff
+### Jeff 
 [JeffHow](https://github.com/jeffhow/)
 > Simple doesn't always mean easy
+---
+
+### Jacob
+[Jacob](https://github.com/jake112311/)
+> when life gives you lemons
 ---
