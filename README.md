@@ -8,12 +8,15 @@ Hacktoberfest Classroom Project 2019
 4. Make a pull request
 
 ## Participants
-Rishabh Tiwari
 
 ### Jeff 
 [JeffHow](https://github.com/jeffhow/)
 > Simple doesn't always mean easy
 ---
+### Eddy
+[EddyRamon1](https://github.com/EddyRamon1/)
+> Yare Yare Daze
+=======
 
 ### Matthew
 [Believedshelf2](https://github.com/believedshelf2/)
