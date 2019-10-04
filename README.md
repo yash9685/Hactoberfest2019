@@ -20,6 +20,7 @@ Hacktoberfest Classroom Project 2019
 
 ### Eddy
 [EddyRamon1](https://github.com/EddyRamon1/)
+> Any can write code that computers will understand, but a programmer can write code humans will understand
 ---
 
 ### Matthew
