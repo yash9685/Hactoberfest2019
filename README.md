@@ -17,22 +17,22 @@ Hacktoberfest Classroom Project 2019
 ### Ryan
 [Ryan Karanja](https://github.com/Ryan-Karanja)
 > Talk is cheap
----
+=======
 
 ### Eddy
 [EddyRamon1](https://github.com/EddyRamon1/)
 > Yare Yare Daze
----
+=======
 
 ### Matthew
 [Believedshelf2](https://github.com/believedshelf2/)
 > Uh oh stincky, poopy.
----
+=======
 
 ### Jacob
 [Jacob](https://github.com/jake112311/)
-> when life gives you lemons
----
+>Programs must be written for people to read, and only incidentally for machines to execute
+=======
 
 ### Marcus
 [marcusaj0114](https://github.com/marcusaj0114/)
