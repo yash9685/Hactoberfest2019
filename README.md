@@ -8,6 +8,7 @@ Hacktoberfest Classroom Project 2019
 4. Make a pull request
 
 ## Participants
+Rishabh Tiwari
 
 ### Jeff 
 [JeffHow](https://github.com/jeffhow/)
@@ -17,4 +18,9 @@ Hacktoberfest Classroom Project 2019
 ### Jacob
 [Jacob](https://github.com/jake112311/)
 > when life gives you lemons
+=======
+
+### Marcus
+[marcusaj0114](https://github.com/marcusaj0114/)
+> Sans Undertale in Smash Bros
 ---
