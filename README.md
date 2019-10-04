@@ -33,3 +33,7 @@ Hacktoberfest Classroom Project 2019
 ### Marcus
 [marcusaj0114](https://github.com/marcusaj0114/)
 ---
+
+### Jose
+[josemorales7](https://github.com/josemorales7/)
+---
