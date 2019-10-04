@@ -9,11 +9,25 @@ Hacktoberfest Classroom Project 2019
 
 ## Participants
 
-### Jeff
+### Jeff 
 [JeffHow](https://github.com/jeffhow/)
 > Simple doesn't always mean easy
 ---
 ### Eddy
 [EddyRamon1](https://github.com/EddyRamon1/)
 > Yare Yare Daze
+=======
+
+### Matthew
+[Believedshelf2](https://github.com/believedshelf2/)
+>Uh oh stincky, poopy.
+=======
+### Jacob
+[Jacob](https://github.com/jake112311/)
+> when life gives you lemons
+=======
+
+### Marcus
+[marcusaj0114](https://github.com/marcusaj0114/)
+> Sans Undertale in Smash Bros
 ---
