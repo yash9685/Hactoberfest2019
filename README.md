@@ -8,6 +8,7 @@ Hacktoberfest Classroom Project 2019
 4. Make a pull request
 
 ## Participants
+Rishabh Tiwari
 
 ### Jeff
 [JeffHow](https://github.com/jeffhow/)
