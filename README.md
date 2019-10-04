@@ -44,4 +44,16 @@ Hacktoberfest Classroom Project 2019
 ### Jose
 [josemorales7](https://github.com/josemorales7/)
 ---
+
 #this is an edit and i want a shirt
+---
+
+### Chris
+[UltraChris64](https://github.com/UltraChris64/)
+> Why did the programmer quit their job? They didn't get arrays.
+---
+
+### Gabe
+[DRsterbenKYS666oof](https://github.com/DRsterbenKYS666oof/)
+> Hi, how do you do? Where did you come from, where did you go? Where did you come from, Cotton-Eye Joe?
+---
