@@ -9,12 +9,33 @@ Hacktoberfest Classroom Project 2019
 
 ## Participants
 
-### Jeff
+### Jeff 
 [JeffHow](https://github.com/jeffhow/)
 > Simple doesn't always mean easy
+---
+
+### Ryan
+[Ryan Karanja](https://github.com/Ryan-Karanja)
+---
+
+### Eddy
+[EddyRamon1](https://github.com/EddyRamon1/)
+> Any can write code that computers will understand, but a programmer can write code humans will understand
+---
+
+### Matthew
+[Believedshelf2](https://github.com/believedshelf2/)
+---
+
+### Jacob
+[Jacob](https://github.com/jake112311/)
 ---
 
 ### Marcus
 [marcusaj0114](https://github.com/marcusaj0114/)
 > The possibilities are truly endless
+---
+
+### Jose
+[josemorales7](https://github.com/josemorales7/)
 ---
