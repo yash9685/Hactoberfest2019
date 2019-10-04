@@ -44,3 +44,8 @@ Hacktoberfest Classroom Project 2019
 ### Jose
 [josemorales7](https://github.com/josemorales7/)
 ---
+
+### Chris
+[UltraChris64](https://github.com/UltraChris64/)
+> Why did the programmer quit their job? They didn't get arrays.
+---
