@@ -16,5 +16,5 @@ Hacktoberfest Classroom Project 2019
 
 ### Marcus
 [marcusaj0114](https://github.com/marcusaj0114/)
-> Sans Undertale in Smash Bros
+> The possibilities are truly endless
 ---
