@@ -18,6 +18,15 @@ Hacktoberfest Classroom Project 2019
 [Ryan Karanja](https://github.com/Ryan-Karanja)
 ---
 
+### Matthew
+[Believedshelf2](https://github.com/believedshelf2/)
+---
+
+### Jacob
+[Jacob](https://github.com/jake112311/)
+>Programs must be written for people to read, and only incidentally for machines to execute
+---
+
 ### Eddy
 [EddyRamon1](https://github.com/EddyRamon1/)
 > Any can write code that computers will understand, but a programmer can write code humans will understand
@@ -25,10 +34,6 @@ Hacktoberfest Classroom Project 2019
 
 ### Matthew
 [Believedshelf2](https://github.com/believedshelf2/)
----
-
-### Jacob
-[Jacob](https://github.com/jake112311/)
 ---
 
 ### Marcus
