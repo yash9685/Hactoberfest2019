@@ -8,8 +8,9 @@ Hacktoberfest Classroom Project 2019
 4. Make a pull request
 
 ## Participants
+Rishabh Tiwari
 
-### Jeff
+### Jeff 
 [JeffHow](https://github.com/jeffhow/)
 > Simple doesn't always mean easy
 ---
@@ -17,4 +18,13 @@ Hacktoberfest Classroom Project 2019
 ### Matthew
 [Believedshelf2](https://github.com/believedshelf2/)
 >Uh oh stincky, poopy.
+=======
+### Jacob
+[Jacob](https://github.com/jake112311/)
+> when life gives you lemons
+=======
+
+### Marcus
+[marcusaj0114](https://github.com/marcusaj0114/)
+> Sans Undertale in Smash Bros
 ---
