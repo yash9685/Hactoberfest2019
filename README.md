@@ -13,3 +13,8 @@ Hacktoberfest Classroom Project 2019
 [JeffHow](https://github.com/jeffhow/)
 > Simple doesn't always mean easy
 ---
+
+### Ryan
+[Ryan Karanja](https://github.com/Ryan-Karanja)
+> Talk is cheap
+---
