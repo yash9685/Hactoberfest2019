@@ -44,4 +44,4 @@ Hacktoberfest Classroom Project 2019
 ### Jose
 [josemorales7](https://github.com/josemorales7/)
 ---
-This is an edit and i want a t shirt
+#this is an edit and i want a shirt
