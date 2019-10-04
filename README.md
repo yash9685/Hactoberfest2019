@@ -45,6 +45,6 @@ Hacktoberfest Classroom Project 2019
 [josemorales7](https://github.com/josemorales7/)
 ---
 
-###
+### Raymand 
 .[budderdude](https://github.com/budderdude/)
-> i have 4 platnium trophies on my psn account and that pretty cool
+> i got some milk so that was pretty cool 
