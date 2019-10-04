@@ -10,10 +10,15 @@ Hacktoberfest Classroom Project 2019
 ## Participants
 Rishabh Tiwari
 
-### Jeff
+### Jeff 
 [JeffHow](https://github.com/jeffhow/)
 > Simple doesn't always mean easy
 ---
+
+### Jacob
+[Jacob](https://github.com/jake112311/)
+> when life gives you lemons
+=======
 
 ### Marcus
 [marcusaj0114](https://github.com/marcusaj0114/)
